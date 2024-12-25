@@ -80,5 +80,3 @@ The `Researcher` agent uses a custom `WebSearch` tool to query the DuckDuckGo AP
 - **More Agents**: Consider adding more agents for specific tasks, such as diet recommendations or exercise plans.
 
 ---
-
-This README provides a comprehensive guide on how to set up, run, and understand the project, ensuring that anyone with basic knowledge of Python can get the system up and running.
