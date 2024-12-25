@@ -1,8 +1,4 @@
-Here’s a README file that explains how to set up, run, and understand the code provided:
-
----
-
-# AI Internship Assignment - CrewAI Implementation
+# CrewAI Implementation
 
 ## Overview
 
